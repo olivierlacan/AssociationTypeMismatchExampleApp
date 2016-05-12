@@ -1,5 +1,11 @@
 # AssociationTypeMismatchExampleApp
 
+## TLDR
+
+![AssociationTypeMismatch error page](https://s3.amazonaws.com/f.cl.ly/items/0R2y2p0T3w0q251m0V2U/Action%20Controller%3A%20Exception%20caught%202016-05-12%2018-35-38.png?v=0e3b7d5b)
+
+## Context
+
 This is a bare bones Rails 4.2 app to demonstrate the lackluster feedback given
 by AssociationTypeMismatch errors thrown when Rails users inadvertently send an
 inapropriate type to an association writer attribute.
